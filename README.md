@@ -1,0 +1,1 @@
+This repository demonstrates a subtle ZeroDivisionError in a Python function. The error is not immediately apparent from the code because the condition for division by zero is hidden within an else statement. The solution shows how to modify the code to handle this edge case and avoid the error.
